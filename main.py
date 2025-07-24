@@ -19,4 +19,7 @@ async def on_ready():
 async def hola(ctx):
     await ctx.send("Hola soy tu bot de juegos gratis")
 
+async def ping(ctx)
+    await ctx.send("estoy vivo")
+
 bot.run(TOKEN)
